@@ -18,6 +18,14 @@
       "checksum": "337b593f75a18c8cbb74bd1d0f238e6ccde0953d3265ddac8b9920d54aadf897"
     },
     {
+      "name": "Ghostcontrol",
+      "filename": "Ghostcontrol.elf",
+      "url": "https://github.com/StonedModder/Ghostcontrol-PS5-USB-Controller-Patcher/releases/download/1.0.3/Ghostcontrol.elf",
+      "description": "A PS5 payload to allow other controllers to work via the front USB port",
+      "version": "1.0.3",
+      "checksum": "7504631101b9462ab738ce04c31f5f8b4973a97d3ab63037322307646fca8286"
+    },
+    {
       "name": "Ghostpad",
       "filename": "ghostpad.elf",
       "url": "https://github.com/StonedModder/Ghostpad/releases/download/v1.0.0/ghostpad.elf",
