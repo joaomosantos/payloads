@@ -7,6 +7,10 @@
     {
       "name": "pegasus-dl",
       "releases": "https://github.com/pegasus-ps5/pegasus-dl/releases"
+    },
+    {
+      "name": "Ghostpad",
+      "releases": "https://github.com/StonedModder/Ghostpad/releases"
     }
   ]
 }
