@@ -4,10 +4,10 @@
     {
       "name": "elf-arsenal",
       "filename": "elf-arsenal.elf",
-      "url": "https://git.etawen.dev/soniciso/elf-arsenal/releases/download/v1.6.17/elf-arsenal.elf",
+      "url": "https://git.etawen.dev/soniciso/elf-arsenal/releases/download/v1.6.18/elf-arsenal.elf",
       "description": "The all-in-one utility for PS5 — successor to Sonic Loader",
-      "version": "v1.6.17",
-      "checksum": "f8856ab3137b90997c2e5a9186d9fee55259d67a2189344eefb11e53574e63a9"
+      "version": "v1.6.18",
+      "checksum": "dc6cd6f9fe44465b6fd537e9501861522cc9128ddd7208efc37d1f895bd872f5"
     },
     {
       "name": "pegasus-dl",
