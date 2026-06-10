@@ -1,0 +1,12 @@
+{
+  "repositories": [
+    {
+      "name": "elf-arsenal",
+      "releases": "https://git.etawen.dev/soniciso/elf-arsenal/releases"
+    },
+    {
+      "name": "pegasus-dl",
+      "releases": "https://github.com/pegasus-ps5/pegasus-dl/releases"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Custom Payloads",
+  "payloads": [
+    {
+      "name": "elf-arsenal",
+      "filename": "elf-arsenal.elf",
+      "url": "https://git.etawen.dev/soniciso/elf-arsenal/releases/download/v1.6.17/elf-arsenal.elf",
+      "description": "The all-in-one utility for PS5 — successor to Sonic Loader",
+      "version": "v1.6.17",
+      "checksum": "f8856ab3137b90997c2e5a9186d9fee55259d67a2189344eefb11e53574e63a9"
+    },
+    {
+      "name": "pegasus-dl",
+      "filename": "pegasus_dl.elf",
+      "url": "https://github.com/pegasus-ps5/pegasus-dl/releases/download/v1.2.0/pegasus_dl.elf",
+      "description": "Direct package downloading from your PS5",
+      "version": "v1.2.0",
+      "checksum": "337b593f75a18c8cbb74bd1d0f238e6ccde0953d3265ddac8b9920d54aadf897"
+    }
+  ]
+}
