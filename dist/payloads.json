@@ -16,6 +16,14 @@
       "description": "Direct package downloading from your PS5",
       "version": "v1.2.0",
       "checksum": "337b593f75a18c8cbb74bd1d0f238e6ccde0953d3265ddac8b9920d54aadf897"
+    },
+    {
+      "name": "Ghostpad",
+      "filename": "ghostpad.elf",
+      "url": "https://github.com/StonedModder/Ghostpad/releases/download/v1.0.0/ghostpad.elf",
+      "description": "PS5 payload for virtual controller creation and input redirection",
+      "version": "v1.0.0",
+      "checksum": "94d43a8db7ec9df6e18f0a0da25aac0f60e1a0b14d35bfff261f6f5cdeabdba1"
     }
   ]
 }
