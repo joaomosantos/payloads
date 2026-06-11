@@ -98,6 +98,11 @@ async function computeChecksum(url) {
   return hash.digest("hex");
 }
 
+function buildVersionedFilename(originalFilename, version) {
+  const base = originalFilename.replace(/\.elf$/i, "");
+  return `${base}_${version}.elf`;
+}
+
 function formatReleaseDate(release) {
   const dateStr = release.published_at ?? release.created_at;
   return dateStr?.slice(0, 10);
@@ -126,8 +131,8 @@ async function buildPayload(repository) {
 
   const asset = pickElfAsset(release.assets ?? [], repository.name);
   const payload = {
-    name: `${repository.name} - ${release.tag_name}`,
-    filename: asset.name,
+    name: repository.name,
+    filename: buildVersionedFilename(asset.name, release.tag_name),
     url: asset.browser_download_url,
     description:
       repository.description ??
