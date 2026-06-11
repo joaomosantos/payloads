@@ -121,7 +121,7 @@ async function buildPayload(repository) {
 
   const asset = pickElfAsset(release.assets ?? [], repository.name);
   const payload = {
-    name: repository.name,
+    name: `${repository.name} - ${release.tag_name}`,
     filename: asset.name,
     url: asset.browser_download_url,
     description:
