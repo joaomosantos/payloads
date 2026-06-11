@@ -2,35 +2,39 @@
   "name": "Custom Payloads",
   "payloads": [
     {
-      "name": "Elf Arsenal - v1.6.19",
-      "filename": "elf-arsenal.elf",
+      "name": "Elf Arsenal",
+      "filename": "elf-arsenal_v1.6.19.elf",
       "url": "https://git.etawen.dev/soniciso/elf-arsenal/releases/download/v1.6.19/elf-arsenal.elf",
       "description": "The all-in-one utility for PS5 — successor to Sonic Loader",
       "version": "v1.6.19",
+      "last_update": "2026-06-11",
       "checksum": "fa30659b4df1d25a0bb94c0e198bd2da5db87d3608a157cbad58feb43c60e370"
     },
     {
-      "name": "Pegasus DL - v1.2.0",
-      "filename": "pegasus_dl.elf",
+      "name": "Pegasus DL",
+      "filename": "pegasus_dl_v1.2.0.elf",
       "url": "https://github.com/pegasus-ps5/pegasus-dl/releases/download/v1.2.0/pegasus_dl.elf",
       "description": "Direct package downloading from your PS5",
       "version": "v1.2.0",
+      "last_update": "2026-06-05",
       "checksum": "337b593f75a18c8cbb74bd1d0f238e6ccde0953d3265ddac8b9920d54aadf897"
     },
     {
-      "name": "Ghostcontrol - 1.0.4",
-      "filename": "Ghostcontrol.elf",
+      "name": "Ghostcontrol",
+      "filename": "Ghostcontrol_1.0.4.elf",
       "url": "https://github.com/StonedModder/Ghostcontrol-PS5-USB-Controller-Patcher/releases/download/1.0.4/Ghostcontrol.elf",
       "description": "A PS5 payload to allow other controllers to work via the front USB port",
       "version": "1.0.4",
+      "last_update": "2026-06-11",
       "checksum": "e2e658fc3c4b041e630fae897acdefa23c4f79f0adc8473a69b49bfc4897ccf0"
     },
     {
-      "name": "Ghostpad - v1.0.0",
-      "filename": "ghostpad.elf",
+      "name": "Ghostpad",
+      "filename": "ghostpad_v1.0.0.elf",
       "url": "https://github.com/StonedModder/Ghostpad/releases/download/v1.0.0/ghostpad.elf",
       "description": "PS5 payload for virtual controller creation and input redirection",
       "version": "v1.0.0",
+      "last_update": "2026-05-31",
       "checksum": "94d43a8db7ec9df6e18f0a0da25aac0f60e1a0b14d35bfff261f6f5cdeabdba1"
     }
   ]
