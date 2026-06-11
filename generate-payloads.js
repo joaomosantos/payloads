@@ -23,7 +23,7 @@ function parseReleasesUrl(releasesUrl) {
       platform: "github",
       owner,
       repo,
-      releasesApiUrl: `https://api.github.com/repos/${owner}/${repo}/releases/latest`,
+      releasesApiUrl: `https://api.github.com/repos/${owner}/${repo}/releases`,
       repoApiUrl: `https://api.github.com/repos/${owner}/${repo}`,
     };
   }
@@ -32,7 +32,7 @@ function parseReleasesUrl(releasesUrl) {
     platform: "gitea",
     owner,
     repo,
-    releasesApiUrl: `${url.origin}/api/v1/repos/${owner}/${repo}/releases/latest`,
+    releasesApiUrl: `${url.origin}/api/v1/repos/${owner}/${repo}/releases`,
     repoApiUrl: `${url.origin}/api/v1/repos/${owner}/${repo}`,
   };
 }
@@ -99,14 +99,25 @@ async function computeChecksum(url) {
 }
 
 async function buildPayload(repository) {
-  const { owner, repo, releasesApiUrl, repoApiUrl } = parseReleasesUrl(
+  const { releasesApiUrl, repoApiUrl } = parseReleasesUrl(
     repository.releases,
   );
 
-  const [release, repoInfo] = await Promise.all([
+  const [releases, repoInfo] = await Promise.all([
     fetchJson(releasesApiUrl),
     fetchJson(repoApiUrl).catch(() => null),
   ]);
+
+  if (!Array.isArray(releases) || releases.length === 0) {
+    throw new Error(`No releases found for ${repository.name}`);
+  }
+  
+  const release = releases.sort((a, b) =>
+    String(b.tag_name).localeCompare(String(a.tag_name), undefined, {
+      numeric: true,
+      sensitivity: "base",
+    }),
+  )[0];
 
   const asset = pickElfAsset(release.assets ?? [], repository.name);
   const payload = {
