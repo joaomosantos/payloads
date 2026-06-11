@@ -4,10 +4,10 @@
     {
       "name": "elf-arsenal",
       "filename": "elf-arsenal.elf",
-      "url": "https://git.etawen.dev/soniciso/elf-arsenal/releases/download/v1.6.18/elf-arsenal.elf",
+      "url": "https://git.etawen.dev/soniciso/elf-arsenal/releases/download/v1.6.7/elf-arsenal.elf",
       "description": "The all-in-one utility for PS5 — successor to Sonic Loader",
-      "version": "v1.6.18",
-      "checksum": "dc6cd6f9fe44465b6fd537e9501861522cc9128ddd7208efc37d1f895bd872f5"
+      "version": "v1.6.7",
+      "checksum": "eb597cc3d88dee1c4a07b9c1124826d3985adbe850bad9334c4283fc224a67ca"
     },
     {
       "name": "pegasus-dl",
@@ -20,10 +20,10 @@
     {
       "name": "Ghostcontrol",
       "filename": "Ghostcontrol.elf",
-      "url": "https://github.com/StonedModder/Ghostcontrol-PS5-USB-Controller-Patcher/releases/download/1.0.3/Ghostcontrol.elf",
+      "url": "https://github.com/StonedModder/Ghostcontrol-PS5-USB-Controller-Patcher/releases/download/1.0.4/Ghostcontrol.elf",
       "description": "A PS5 payload to allow other controllers to work via the front USB port",
-      "version": "1.0.3",
-      "checksum": "7504631101b9462ab738ce04c31f5f8b4973a97d3ab63037322307646fca8286"
+      "version": "1.0.4",
+      "checksum": "e2e658fc3c4b041e630fae897acdefa23c4f79f0adc8473a69b49bfc4897ccf0"
     },
     {
       "name": "Ghostpad",
