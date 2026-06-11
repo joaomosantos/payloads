@@ -98,6 +98,11 @@ async function computeChecksum(url) {
   return hash.digest("hex");
 }
 
+function formatReleaseDate(release) {
+  const dateStr = release.published_at ?? release.created_at;
+  return dateStr?.slice(0, 10);
+}
+
 async function buildPayload(repository) {
   const { releasesApiUrl, repoApiUrl } = parseReleasesUrl(
     repository.releases,
@@ -130,6 +135,7 @@ async function buildPayload(repository) {
       release.body?.split("\n")[0] ??
       "",
     version: release.tag_name,
+    last_update: formatReleaseDate(release),
   };
 
   let checksum = extractChecksum(asset);
