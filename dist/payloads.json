@@ -3,12 +3,12 @@
   "payloads": [
     {
       "name": "Elf Arsenal",
-      "filename": "elf-arsenal_v1.6.8.elf",
-      "url": "https://git.etawen.dev/soniciso/elf-arsenal/releases/download/v1.6.8/elf-arsenal.elf",
+      "filename": "elf-arsenal_v1.6.19.elf",
+      "url": "https://git.etawen.dev/soniciso/elf-arsenal/releases/download/v1.6.19/elf-arsenal.elf",
       "description": "The all-in-one utility for PS5 — successor to Sonic Loader",
-      "version": "v1.6.8",
+      "version": "v1.6.19",
       "last_update": "2026-06-15",
-      "checksum": "1aee4170a39c82622d1d06ecd84a4f7d1c4458dc8b561068c3723da16dffa65d"
+      "checksum": "9965d9c69980a073d8c12f1b34d479041a73f0d55397a3abdfd11d8019f0fe08"
     },
     {
       "name": "Pegasus DL",
