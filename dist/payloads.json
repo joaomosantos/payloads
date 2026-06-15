@@ -3,21 +3,21 @@
   "payloads": [
     {
       "name": "Elf Arsenal",
-      "filename": "elf-arsenal_v1.6.7.elf",
-      "url": "https://git.etawen.dev/soniciso/elf-arsenal/releases/download/v1.6.7/elf-arsenal.elf",
+      "filename": "elf-arsenal_v1.6.8.elf",
+      "url": "https://git.etawen.dev/soniciso/elf-arsenal/releases/download/v1.6.8/elf-arsenal.elf",
       "description": "The all-in-one utility for PS5 — successor to Sonic Loader",
-      "version": "v1.6.7",
-      "last_update": "2026-06-06",
-      "checksum": "eb597cc3d88dee1c4a07b9c1124826d3985adbe850bad9334c4283fc224a67ca"
+      "version": "v1.6.8",
+      "last_update": "2026-06-15",
+      "checksum": "1aee4170a39c82622d1d06ecd84a4f7d1c4458dc8b561068c3723da16dffa65d"
     },
     {
       "name": "Pegasus DL",
-      "filename": "pegasus_dl_v1.3.0.elf",
-      "url": "https://github.com/pegasus-ps5/pegasus-dl/releases/download/v1.3.0/pegasus_dl.elf",
+      "filename": "pegasus_dl_v1.4.0.elf",
+      "url": "https://github.com/pegasus-ps5/pegasus-dl/releases/download/v1.4.0/pegasus_dl.elf",
       "description": "Direct package downloading from your PS5",
-      "version": "v1.3.0",
-      "last_update": "2026-06-12",
-      "checksum": "4fb014322f9f1470360d3e3e1357a46b8118876c625b71c928a999fd1e30058e"
+      "version": "v1.4.0",
+      "last_update": "2026-06-15",
+      "checksum": "3e2731fba643b7f303a6a6dc2092edf3bca213cc44d73463c9f74d3887c7bc09"
     },
     {
       "name": "Ghostcontrol",
