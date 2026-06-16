@@ -15,6 +15,10 @@
     {
       "name": "Ghostpad",
       "releases": "https://github.com/StonedModder/Ghostpad/releases"
+    },
+    {
+      "name": "Game Compressor",
+      "releases": "https://github.com/juma-sayeh/PS5-Game-Compressor/releases"
     }
   ]
 }
