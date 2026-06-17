@@ -8,7 +8,7 @@
       "description": "The all-in-one utility for PS5 — successor to Sonic Loader",
       "version": "v1.6.19",
       "last_update": "2026-06-15",
-      "checksum": "9965d9c69980a073d8c12f1b34d479041a73f0d55397a3abdfd11d8019f0fe08"
+      "checksum": "2f8d23aca8e2e54788369bd80b1bbc7b40e51ace649b40af6f3d52a79cd2bbd4"
     },
     {
       "name": "Pegasus DL",
@@ -39,12 +39,12 @@
     },
     {
       "name": "Game Compressor",
-      "filename": "game-compressor_v0.9.7.elf",
-      "url": "https://github.com/juma-sayeh/PS5-Game-Compressor/releases/download/v0.9.7/game-compressor.elf",
+      "filename": "game-compressor_v1.0.0.elf",
+      "url": "https://github.com/juma-sayeh/PS5-Game-Compressor/releases/download/v1.0.0/game-compressor.elf",
       "description": "Standalone PS5 payload for compressing, unpacking, validating, and repairing ShadowMountPlus-mounted games",
-      "version": "v0.9.7",
-      "last_update": "2026-06-15",
-      "checksum": "9c8cc07b50933bcbefa5e5aae86eac0fc3e97035c737c9c5c79037f6e2a8d132"
+      "version": "v1.0.0",
+      "last_update": "2026-06-17",
+      "checksum": "29eb7e0b2d46ff23203597ce93ff463d7c4df65ace48b08ca65be3cb184491b2"
     }
   ]
 }
