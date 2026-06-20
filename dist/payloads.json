@@ -39,12 +39,12 @@
     },
     {
       "name": "Game Compressor",
-      "filename": "game-compressor_v1.0.2.elf",
-      "url": "https://github.com/juma-sayeh/PS5-Game-Compressor/releases/download/v1.0.2/game-compressor.elf",
+      "filename": "game-compressor_v1.0.3.elf",
+      "url": "https://github.com/juma-sayeh/PS5-Game-Compressor/releases/download/v1.0.3/game-compressor.elf",
       "description": "Standalone PS5 payload for compressing, unpacking, validating, and repairing ShadowMountPlus-mounted games",
-      "version": "v1.0.2",
+      "version": "v1.0.3",
       "last_update": "2026-06-20",
-      "checksum": "65918eda7454e9221b244ff0fa29738bf3e251b4745efcf589271bb76de3f6b1"
+      "checksum": "51b66edf6210c022d57a31ab12bf97f95a3c71ea683df387d9081494f11606b2"
     }
   ]
 }
