@@ -12,12 +12,12 @@
     },
     {
       "name": "Pegasus DL",
-      "filename": "pegasus_dl_v1.5.0.elf",
-      "url": "https://github.com/pegasus-ps5/pegasus-dl/releases/download/v1.5.0/pegasus_dl.elf",
+      "filename": "pegasus_dl_v1.6.0.elf",
+      "url": "https://github.com/pegasus-ps5/pegasus-dl/releases/download/v1.6.0/pegasus_dl.elf",
       "description": "Direct package downloading from your PS5",
-      "version": "v1.5.0",
-      "last_update": "2026-06-19",
-      "checksum": "d48b96e93a5d47324bd1adc79ae834009c297fdb5759a136552158ef5e2a1ab6"
+      "version": "v1.6.0",
+      "last_update": "2026-06-21",
+      "checksum": "29b62ef5004729af92a40caeeb956c6fd2c1a795079317a4e3285599a641a89e"
     },
     {
       "name": "Ghostcontrol",
