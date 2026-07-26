@@ -122,7 +122,12 @@ async function buildPayload(repository) {
     throw new Error(`No releases found for ${repository.name}`);
   }
   
-  const release = releases[0];
+  const release = releases.sort((a, b) =>
+    String(b.tag_name).localeCompare(String(a.tag_name), undefined, {
+      numeric: true,
+      sensitivity: "base",
+    }),
+  )[0];
 
   const asset = pickElfAsset(release.assets ?? [], repository.name);
   const payload = {
