@@ -45,6 +45,15 @@
       "version": "v1.0.3",
       "last_update": "2026-06-20",
       "checksum": "51b66edf6210c022d57a31ab12bf97f95a3c71ea683df387d9081494f11606b2"
+    },
+    {
+      "name": "ShadowMountPlus",
+      "filename": "shadowmountplus_1.15-beta.elf",
+      "url": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.15-beta/shadowmountplus.elf",
+      "description": "Automated background auto-mounter payload for jailbroken PS5 consoles. Detects, mounts, and installs game backups from internal or external storage, with support for UFS, exFAT, PFS, and nested compressed PFS containers.",
+      "version": "1.15-beta",
+      "last_update": "2026-02-17",
+      "checksum": "204a3e43f38c37d5e75336d3f4f9c7340a638a035d7af5b402abbf85f58375b8"
     }
   ]
 }
