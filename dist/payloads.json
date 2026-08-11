@@ -11,13 +11,13 @@
       "checksum": "162892ca3d6ae9b89764fa6447401b94e62148b21855a9b971b41458955accc1"
     },
     {
-      "name": "Ghostpad",
-      "filename": "ghostpad_v1.0.0.elf",
-      "url": "https://github.com/StonedModder/Ghostpad/releases/download/v1.0.0/ghostpad.elf",
-      "description": "PS5 payload for virtual controller creation and input redirection",
-      "version": "v1.0.0",
-      "last_update": "2026-05-31",
-      "checksum": "94d43a8db7ec9df6e18f0a0da25aac0f60e1a0b14d35bfff261f6f5cdeabdba1"
+      "name": "GhosControl",
+      "filename": "Ghostcontrol_1.0.5.elf",
+      "url": "https://github.com/StonedModder/Ghostcontrol-PS5-USB-Controller-Patcher/releases/download/1.0.5/Ghostcontrol.elf",
+      "description": "A PS5 payload to allow other controllers to work via the front USB port",
+      "version": "1.0.5",
+      "last_update": "2026-07-06",
+      "checksum": "69271d91f27397c9ad42150129639ce452ecb405021108f42c6c87926123a6f1"
     },
     {
       "name": "Game Compressor",
