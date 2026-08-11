@@ -1,16 +1,8 @@
 {
   "repositories": [
     {
-      "name": "Elf Arsenal",
-      "releases": "https://git.etawen.dev/soniciso/elf-arsenal/releases"
-    },
-    {
-      "name": "Pegasus DL",
-      "releases": "https://github.com/pegasus-ps5/pegasus-dl/releases"
-    },
-    {
-      "name": "Ghostcontrol",
-      "releases": "https://github.com/StonedModder/Ghostcontrol-PS5-USB-Controller-Patcher/releases"
+      "name": "ps5-webkit-autoloader",
+      "releases": "https://github.com/itsPLK/ps5-webkit-autoloader/releases"
     },
     {
       "name": "Ghostpad",
