@@ -2,31 +2,13 @@
   "name": "Custom Payloads",
   "payloads": [
     {
-      "name": "Elf Arsenal",
-      "filename": "elf-arsenal_v1.6.22.elf",
-      "url": "https://git.etawen.dev/soniciso/elf-arsenal/releases/download/v1.6.22/elf-arsenal.elf",
-      "description": "The all-in-one utility for PS5 — successor to Sonic Loader",
-      "version": "v1.6.22",
-      "last_update": "2026-07-03",
-      "checksum": "ee8f47e4d6a5fd85cef113341aa1eb74d68e373a58fcb1fb5a9274acd2b83bd2"
-    },
-    {
-      "name": "Pegasus DL",
-      "filename": "pegasus_dl_v1.7.0.elf",
-      "url": "https://github.com/pegasus-ps5/pegasus-dl/releases/download/v1.7.0/pegasus_dl.elf",
-      "description": "Direct package downloading from your PS5",
-      "version": "v1.7.0",
-      "last_update": "2026-06-24",
-      "checksum": "cb2a4b3c248323f2432ce118cb1bf4975146035239ce9b571a9bdb51b3fee226"
-    },
-    {
-      "name": "Ghostcontrol",
-      "filename": "Ghostcontrol_1.0.5.elf",
-      "url": "https://github.com/StonedModder/Ghostcontrol-PS5-USB-Controller-Patcher/releases/download/1.0.5/Ghostcontrol.elf",
-      "description": "A PS5 payload to allow other controllers to work via the front USB port",
-      "version": "1.0.5",
-      "last_update": "2026-07-06",
-      "checksum": "69271d91f27397c9ad42150129639ce452ecb405021108f42c6c87926123a6f1"
+      "name": "ps5-webkit-autoloader",
+      "filename": "webkit-autoloader-installer_v0.1.1_v0.1.1.elf",
+      "url": "https://github.com/itsPLK/ps5-webkit-autoloader/releases/download/v0.1.1/webkit-autoloader-installer_v0.1.1.elf",
+      "description": "An automated payload loader for exploited PS5 consoles",
+      "version": "v0.1.1",
+      "last_update": "2026-08-11",
+      "checksum": "162892ca3d6ae9b89764fa6447401b94e62148b21855a9b971b41458955accc1"
     },
     {
       "name": "Ghostpad",
