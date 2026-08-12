@@ -3,12 +3,12 @@
   "payloads": [
     {
       "name": "ps5-webkit-autoloader",
-      "filename": "webkit-autoloader-installer_v0.2.1_v0.2.1.elf",
-      "url": "https://github.com/itsPLK/ps5-webkit-autoloader/releases/download/v0.2.1/webkit-autoloader-installer_v0.2.1.elf",
+      "filename": "webkit-autoloader-installer_v0.2.2-pre-e1b7e6b_v0.2.2-pre-e1b7e6b.elf",
+      "url": "https://github.com/itsPLK/ps5-webkit-autoloader/releases/download/v0.2.2-pre-e1b7e6b/webkit-autoloader-installer_v0.2.2-pre-e1b7e6b.elf",
       "description": "An automated payload loader for exploited PS5 consoles",
-      "version": "v0.2.1",
+      "version": "v0.2.2-pre-e1b7e6b",
       "last_update": "2026-08-12",
-      "checksum": "e8cfaaf19855ae58a12394ab2277e2f878903594c6a6a84b04174324e0e92d6a"
+      "checksum": "dfd0d0353b46eff01968bf00df0998ef49a829690d74642d0790208d1ca53064"
     },
     {
       "name": "GhostControl",
