@@ -15,6 +15,10 @@
     {
       "name": "PizzaHEN",
       "releases": "https://github.com/Michele-M-Media/PIZZA-HEN/releases"
+    },
+    {
+      "name": "Prospero Manager",
+      "releases": "https://github.com/notmaj0r/ProsperoMgr/releases"
     }
   ]
 }
