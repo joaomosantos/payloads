@@ -36,6 +36,15 @@
       "version": "v2.00",
       "last_update": "2026-08-24",
       "checksum": "8535d399612d61c50a528b2ae416f2fc3ccfb7480296df99c17302583fb3e345"
+    },
+    {
+      "name": "Prospero Manager",
+      "filename": "ProsperoMgr_beta.elf",
+      "url": "https://github.com/notmaj0r/ProsperoMgr/releases/download/beta/ProsperoMgr.elf",
+      "description": "Web-Based All-In-One manager for your PS5!",
+      "version": "beta",
+      "last_update": "2026-08-25",
+      "checksum": "6cde8d8e97478ff43f69d2c6b22ac6512311d83b1d9ceb09d56796b9200c1b3c"
     }
   ]
 }
