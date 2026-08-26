@@ -7,6 +7,14 @@
     {
       "name": "Game Compressor",
       "releases": "https://github.com/juma-sayeh/PS5-Game-Compressor/releases"
+    },
+    {
+      "name": "onionHEN",
+      "releases": "https://github.com/aydencharles/onionHEN/releases"
+    },
+    {
+      "name": "PizzaHEN",
+      "releases": "https://github.com/Michele-M-Media/PIZZA-HEN/releases"
     }
   ]
 }
