@@ -21,12 +21,12 @@
     },
     {
       "name": "onionHEN",
-      "filename": "OnionHEN_v0.0.11.elf",
-      "url": "https://github.com/aydencharles/onionHEN/releases/download/v0.0.11/OnionHEN.elf",
+      "filename": "OnionHEN_v0.0.12.elf",
+      "url": "https://github.com/aydencharles/onionHEN/releases/download/v0.0.12/OnionHEN.elf",
       "description": "Yet another HEN enabler for jailbroken PS5",
-      "version": "v0.0.11",
-      "last_update": "2026-08-26",
-      "checksum": "edc5663c32bad01df9c4045bc93c1bdfecafd84c3414774ef42c522744d40868"
+      "version": "v0.0.12",
+      "last_update": "2026-08-31",
+      "checksum": "a5c8dafe2af2681e8014421400c4ade4183a8d8be6dad6080dbd0930fa159e00"
     },
     {
       "name": "PizzaHEN",
