@@ -2,15 +2,6 @@
   "name": "Custom Payloads",
   "payloads": [
     {
-      "name": "GhostControl",
-      "filename": "Ghostcontrol_1.0.5.elf",
-      "url": "https://github.com/StonedModder/Ghostcontrol-PS5-USB-Controller-Patcher/releases/download/1.0.5/Ghostcontrol.elf",
-      "description": "A PS5 payload to allow other controllers to work via the front USB port",
-      "version": "1.0.5",
-      "last_update": "2026-07-06",
-      "checksum": "69271d91f27397c9ad42150129639ce452ecb405021108f42c6c87926123a6f1"
-    },
-    {
       "name": "Game Compressor",
       "filename": "game-compressor_v1.0.4.elf",
       "url": "https://github.com/juma-sayeh/PS5-Game-Compressor/releases/download/v1.0.4/game-compressor.elf",
@@ -21,12 +12,12 @@
     },
     {
       "name": "onionHEN",
-      "filename": "OnionHEN_v0.0.12.elf",
-      "url": "https://github.com/aydencharles/onionHEN/releases/download/v0.0.12/OnionHEN.elf",
+      "filename": "OnionHEN_v0.0.13.elf",
+      "url": "https://github.com/aydencharles/onionHEN/releases/download/v0.0.13/OnionHEN.elf",
       "description": "Yet another HEN enabler for jailbroken PS5",
-      "version": "v0.0.12",
-      "last_update": "2026-08-31",
-      "checksum": "a5c8dafe2af2681e8014421400c4ade4183a8d8be6dad6080dbd0930fa159e00"
+      "version": "v0.0.13",
+      "last_update": "2026-09-11",
+      "checksum": "aa3f98847948e2ae8ea600c3f437e28247a0a4f8b73651a046d2859924bf97b3"
     },
     {
       "name": "PizzaHEN",
@@ -41,7 +32,7 @@
       "name": "Prospero Manager",
       "filename": "ProsperoMgr_beta.elf",
       "url": "https://github.com/notmaj0r/ProsperoMgr/releases/download/beta/ProsperoMgr.elf",
-      "description": "Web-Based All-In-One manager for your PS5!",
+      "description": "All-In-One manager for your PS5!",
       "version": "beta",
       "last_update": "2026-08-25",
       "checksum": "6cde8d8e97478ff43f69d2c6b22ac6512311d83b1d9ceb09d56796b9200c1b3c"
