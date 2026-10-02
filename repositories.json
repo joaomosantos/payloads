@@ -15,6 +15,10 @@
     {
       "name": "Prospero Manager",
       "releases": "https://github.com/notmaj0r/ProsperoMgr/releases"
+    },
+    {
+      "name": "ps5-account-tools",
+      "releases": "https://github.com/MangoScango/ps5-account-tools/releases"
     }
   ]
 }
