@@ -36,6 +36,15 @@
       "version": "v1.1",
       "last_update": "2026-09-28",
       "checksum": "e7a6bb544adb2fb2a61aa9cc83b0ad15f70b32d7511a3de0f1fb88812f11983c"
+    },
+    {
+      "name": "ps5-account-tools",
+      "filename": "ps5-account-tools-v1.2_v1.2.elf",
+      "url": "https://github.com/MangoScango/ps5-account-tools/releases/download/v1.2/ps5-account-tools-v1.2.elf",
+      "description": "Compile with latest SDK (13.60 prep)",
+      "version": "v1.2",
+      "last_update": "2026-09-19",
+      "checksum": "2e1402d8c088afda55280b28fcc66ccb870528ec948d10ea586088f60f723f2a"
     }
   ]
 }
