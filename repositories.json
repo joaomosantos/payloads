@@ -5,19 +5,15 @@
       "releases": "https://github.com/juma-sayeh/PS5-Game-Compressor/releases"
     },
     {
-      "name": "onionHEN",
-      "releases": "https://github.com/aydencharles/onionHEN/releases"
-    },
-    {
-      "name": "PizzaHEN",
-      "releases": "https://github.com/Michele-M-Media/PIZZA-HEN/releases"
+      "name": "Kabuki PS5",
+      "releases": "https://github.com/stupiditytries/kabuki-ps5/releases"
     },
     {
       "name": "Prospero Manager",
       "releases": "https://github.com/notmaj0r/ProsperoMgr/releases"
     },
     {
-      "name": "ps5-account-tools",
+      "name": "PS5 Account Tools",
       "releases": "https://github.com/MangoScango/ps5-account-tools/releases"
     }
   ]
