@@ -20,6 +20,15 @@
       "checksum": "e29d2c8c3c1f8718af8706db09b845d3732cef22058931a8b5d590f530382cde"
     },
     {
+      "name": "LZ4 Compression",
+      "filename": "lz4-compression_v1.6.2.elf",
+      "url": "https://theghostonline.dev/theghostonline/PS5-LZ4-Compression/releases/download/v1.6.2/lz4-compression.elf",
+      "description": "Shrink PS5 games on the console itself with LZ4 asset packs and .ffpfsc compression.",
+      "version": "v1.6.2",
+      "last_update": "2026-10-19",
+      "checksum": "cd30796e919d8a40b18af03028cfc5b33cba99943b71683f27d49c7e8acac429"
+    },
+    {
       "name": "Kabuki PS5",
       "filename": "kabuki-ps5_v0.2.0-rc.1.elf",
       "url": "https://github.com/stupiditytries/kabuki-ps5/releases/download/v0.2.0-rc.1/kabuki-ps5.elf",
