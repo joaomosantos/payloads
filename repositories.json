@@ -9,6 +9,10 @@
       "releases": "https://github.com/gameboy829/PS5-LZ4-Game-Compressor/releases"
     },
     {
+      "name": "LZ4 Compression",
+      "releases": "https://theghostonline.dev/theghostonline/PS5-LZ4-Compression/releases"
+    },
+    {
       "name": "Kabuki PS5",
       "releases": "https://github.com/stupiditytries/kabuki-ps5/releases"
     },
