@@ -11,6 +11,15 @@
       "checksum": "e55e90aaade13b6e0d4316c1597ef90a21b67a06475c3e25de054224bc1e941b"
     },
     {
+      "name": "LZ4 Game Compressor",
+      "filename": "LZ4-Game-Compressor_beta.7.elf",
+      "url": "https://github.com/gameboy829/PS5-LZ4-Game-Compressor/releases/download/beta.7/LZ4-Game-Compressor.elf",
+      "description": "LZ4 game compression for PS5 homebrew — beta.1",
+      "version": "beta.7",
+      "last_update": "2026-10-11",
+      "checksum": "e29d2c8c3c1f8718af8706db09b845d3732cef22058931a8b5d590f530382cde"
+    },
+    {
       "name": "Kabuki PS5",
       "filename": "kabuki-ps5_v0.2.0-rc.1.elf",
       "url": "https://github.com/stupiditytries/kabuki-ps5/releases/download/v0.2.0-rc.1/kabuki-ps5.elf",
