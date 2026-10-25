@@ -63,24 +63,6 @@
       "version": "RELEASE-V2",
       "last_update": "2026-10-24",
       "checksum": "d6c687dd53d54435a6710209cb0dddd00035d86edc567d494d776428d3494b82"
-    },
-    {
-      "name": "PS5 TabShifter",
-      "filename": "TabShifter_v1.3.0.elf",
-      "url": "https://github.com/xvvulcanvx/PS5-TabShifter/releases/download/v1.3.0/TabShifter.elf",
-      "description": "Standalone PS5 on-console payload to move apps between Games/Media tabs and hide offline PSN bloatware (Universal FW 5.00 – 13.60)",
-      "version": "v1.3.0",
-      "last_update": "2026-10-24",
-      "checksum": "5d2d9c46c2390df05c5a85781b033aa9471584629e8bd69b91608cb3e60f45b4"
-    },
-    {
-      "name": "PS5 LockerShell UI",
-      "filename": "lockshellui_v1.0.1_v1.0.1.elf",
-      "url": "https://github.com/fluffy-godzilla/ps5-lockshellui/releases/download/v1.0.1/lockshellui_v1.0.1.elf",
-      "description": "Locks the PS5 ShellUI icons to their predefined configuration",
-      "version": "v1.0.1",
-      "last_update": "2026-10-24",
-      "checksum": "7ff24f54d70277babc7ff10d143020be97daaf0b559fd07429fc19f6e99e5536"
     }
   ]
 }
