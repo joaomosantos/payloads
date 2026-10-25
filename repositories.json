@@ -27,6 +27,10 @@
     {
       "name": "HomeHider",
       "releases": "https://github.com/Euphoric-Dev/HomeHider/releases"
+    },
+    {
+      "name": "Linux Loader AIO",
+      "releases": "https://github.com/Wigglez-sudo/12.xx-linux-loader/releases"
     }
   ]
 }
