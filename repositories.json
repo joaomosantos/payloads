@@ -23,6 +23,14 @@
     {
       "name": "PS5 Account Tools",
       "releases": "https://github.com/MangoScango/ps5-account-tools/releases"
+    },
+    {
+      "name": "HomeHider",
+      "releases": "https://github.com/Euphoric-Dev/HomeHider/releases"
+    },
+    {
+      "name": "PS5 TabShifter",
+      "releases": "https://github.com/xvvulcanvx/PS5-TabShifter/releases"
     }
   ]
 }
