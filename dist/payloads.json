@@ -54,6 +54,24 @@
       "version": "v1.2",
       "last_update": "2026-09-19",
       "checksum": "2e1402d8c088afda55280b28fcc66ccb870528ec948d10ea586088f60f723f2a"
+    },
+    {
+      "name": "HomeHider",
+      "filename": "HomeHider_RELEASE-V2.elf",
+      "url": "https://github.com/Euphoric-Dev/HomeHider/releases/download/RELEASE-V2/HomeHider.elf",
+      "description": "A PS5 .elf Payload File that can edit/modify App Icons, App Background, Animated Background, App Name, Hide Apps, and Make Folders",
+      "version": "RELEASE-V2",
+      "last_update": "2026-10-24",
+      "checksum": "d6c687dd53d54435a6710209cb0dddd00035d86edc567d494d776428d3494b82"
+    },
+    {
+      "name": "PS5 TabShifter",
+      "filename": "TabShifter_v1.3.0.elf",
+      "url": "https://github.com/xvvulcanvx/PS5-TabShifter/releases/download/v1.3.0/TabShifter.elf",
+      "description": "Standalone PS5 on-console payload to move apps between Games/Media tabs and hide offline PSN bloatware (Universal FW 5.00 – 13.60)",
+      "version": "v1.3.0",
+      "last_update": "2026-10-24",
+      "checksum": "5d2d9c46c2390df05c5a85781b033aa9471584629e8bd69b91608cb3e60f45b4"
     }
   ]
 }
