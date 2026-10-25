@@ -31,6 +31,10 @@
     {
       "name": "PS5 TabShifter",
       "releases": "https://github.com/xvvulcanvx/PS5-TabShifter/releases"
+    },
+    {
+      "name": "PS5 LockerShell UI",
+      "releases": "https://github.com/fluffy-godzilla/ps5-lockshellui/releases"
     }
   ]
 }
