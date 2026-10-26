@@ -21,12 +21,12 @@
     },
     {
       "name": "LZ4 Compression",
-      "filename": "lz4-compression_v1.6.3.elf",
-      "url": "https://theghostonline.dev/theghostonline/PS5-LZ4-Compression/releases/download/v1.6.3/lz4-compression.elf",
+      "filename": "lz4-compression_v1.6.4.elf",
+      "url": "https://theghostonline.dev/theghostonline/PS5-LZ4-Compression/releases/download/v1.6.4/lz4-compression.elf",
       "description": "Shrink PS5 games on the console itself with LZ4 asset packs and .ffpfsc compression.",
-      "version": "v1.6.3",
-      "last_update": "2026-10-21",
-      "checksum": "274628746c80d0073f1183a4c4a239394beeacf2328152aac8fe7da6923cbec3"
+      "version": "v1.6.4",
+      "last_update": "2026-10-26",
+      "checksum": "a7c1a956ebddfc92851822b7d0e71e22fa98fd69758bc17b77043b338bd495a4"
     },
     {
       "name": "Kabuki PS5",
@@ -66,12 +66,12 @@
     },
     {
       "name": "Linux Loader AIO",
-      "filename": "ps5-linux-loader-aio_12.xx.elf",
-      "url": "https://github.com/Wigglez-sudo/12.xx-linux-loader/releases/download/12.xx/ps5-linux-loader-aio.elf",
+      "filename": "ps5-linux-loader-1200-pro_12xxPro.elf",
+      "url": "https://github.com/Wigglez-sudo/12.xx-linux-loader/releases/download/12xxPro/ps5-linux-loader-1200-pro.elf",
       "description": "Working Linux Loader For PS5 Firmware 12.00/12.02/12.20/12.40/12.60/12.70 Phat/Slim",
-      "version": "12.xx",
-      "last_update": "2026-10-24",
-      "checksum": "65ee3b02770279e7ba094472eb066b90273b27442a4d09905ad4f35e5a60a4ea"
+      "version": "12xxPro",
+      "last_update": "2026-10-26",
+      "checksum": "ad8adac122089117099947e3c3a1551a08ccc43d278080457669d46e45feccb5"
     }
   ]
 }
