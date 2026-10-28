@@ -57,12 +57,12 @@
     },
     {
       "name": "HomeHider",
-      "filename": "HomeHider_RELEASE-V2.elf",
-      "url": "https://github.com/Euphoric-Dev/HomeHider/releases/download/RELEASE-V2/HomeHider.elf",
+      "filename": "HomeHider_RELEASE-V2.1.elf",
+      "url": "https://github.com/Euphoric-Dev/HomeHider/releases/download/RELEASE-V2.1/HomeHider.elf",
       "description": "A PS5 .elf Payload File that can edit/modify App Icons, App Background, Animated Background, App Name, Hide Apps, and Make Folders",
-      "version": "RELEASE-V2",
-      "last_update": "2026-10-24",
-      "checksum": "d6c687dd53d54435a6710209cb0dddd00035d86edc567d494d776428d3494b82"
+      "version": "RELEASE-V2.1",
+      "last_update": "2026-10-28",
+      "checksum": "ba4e135e11a2528048b1b5c21c252fed450c59a156203ff765e7bbffb82265ac"
     },
     {
       "name": "Linux Loader AIO",
