@@ -66,12 +66,12 @@
     },
     {
       "name": "Linux Loader AIO",
-      "filename": "ps5-linux-loader-1200-pro_12xxPro.elf",
-      "url": "https://github.com/Wigglez-sudo/12.xx-linux-loader/releases/download/12xxPro/ps5-linux-loader-1200-pro.elf",
+      "filename": "Linux-loader-pro-aio_12xxPro.elf",
+      "url": "https://github.com/Wigglez-sudo/12.xx-linux-loader/releases/download/12xxPro/Linux-loader-pro-aio.elf",
       "description": "Working Linux Loader For PS5 Firmware 12.00/12.02/12.20/12.40/12.60/12.70 Phat/Slim",
       "version": "12xxPro",
       "last_update": "2026-10-26",
-      "checksum": "ad8adac122089117099947e3c3a1551a08ccc43d278080457669d46e45feccb5"
+      "checksum": "8cbdc6a6a5466586e9f5f3a71ccc897a3e74ad3ce4cfb196c0bfe9e125f5d672"
     }
   ]
 }
